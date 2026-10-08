@@ -1,0 +1,13 @@
+{
+  "name": "mokea-economy-bot",
+  "version": "1.0.0",
+  "description": "MOKEA COMMUNITY Discord economy bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^16.6.1"
+  }
+}
